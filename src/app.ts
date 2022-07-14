@@ -1,5 +1,5 @@
 import { Component } from 'react'
-import './app.less'
+import './app.sass'
 
 class App extends Component {
 

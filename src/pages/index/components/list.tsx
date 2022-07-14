@@ -1,5 +1,5 @@
 import { View } from '@tarojs/components'
-import { listItem } from '../pages/index/fileds'
+import { listItem } from '../fileds'
 import ListItem from './listItem'
 
 const List = (props) => {

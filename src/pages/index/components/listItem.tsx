@@ -1,5 +1,5 @@
 import { View, Text } from '@tarojs/components'
-import { listItem } from '../pages/index/fileds'
+import { listItem } from '../fileds'
 
 const ListItem = (props) => {
   const item:listItem = props.data
